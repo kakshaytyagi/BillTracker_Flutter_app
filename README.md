@@ -8,12 +8,13 @@ Welcome to BillTracker, BillTracker is a simple and efficient app designed to he
 
 ## Features
 
-- **Bill Management:** Easily add, edit, and delete bills with details such as due date, amount, and payment status.
-- **Payment Tracking:** Quickly see which bills have been paid, are pending, or are overdue.
-- **Comprehensive History:** Access a detailed payment history to track your financial transactions.
-- **Categories:** Categorize bills for better organization and easy tracking.
-- **Customization:** Personalize the app to suit your preferences with customizable settings.
-- **Seamless Bill Sharing:** Share bill details with your contacts to keep them informed about upcoming due dates, promoting collaborative financial management.
+- 📅**Bill Management:** Easily add, edit, and delete bills with details such as due date, amount, and payment status.
+- 💵**Payment Tracking:** Quickly see which bills have been paid, are pending, or are overdue.
+- 🔄**Comprehensive History:** Access a detailed payment history to track your financial transactions.
+- 🗂️ **Categories:** Categorize bills for better organization and easy tracking.
+- 🎨**Customization:** Personalize the app to suit your preferences with customizable settings.
+- 🤝**Seamless Bill Sharing:** Share bill details with your contacts to keep them informed about upcoming due dates, promoting collaborative financial management.
+- 🔥 **Fully Functional with Firebase:** BillTracker is powered by Firebase, providing a secure and efficient backend for seamless data management.
 
 ## Getting Started
 
