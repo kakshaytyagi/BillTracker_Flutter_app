@@ -48,9 +48,10 @@ Welcome to BillTracker, BillTracker is a simple and efficient app designed to he
   <img src="screenshot/Screenshot_2.png" alt="Product Screen" width="100%">
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="screenshot/Screenshot_3.mp4" alt="Address Screen" width="100%">
-</div>
+<video width="100%" controls>
+  <source src="screenshot/Screenshot_3.mp4" type="video/mp4">
+</video>
+
 
 
 ## Getting Started
